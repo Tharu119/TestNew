@@ -2,5 +2,4 @@
 
 This is a home page of Tharu!
 
-This were changed!
-
+This were changed! not add
